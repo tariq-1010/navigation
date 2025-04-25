@@ -1,0 +1,1 @@
+A jQuery animation to understand orbitation around a sphere; this my project is based on natural learning.
