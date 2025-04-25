@@ -222,7 +222,7 @@
 																												$("#BO-EI-NG").css("transform", "rotate(1714.99deg)");
 																												$("#BO-EI-NG").animate({ left: '327px', top: '125px'}, 1010 , function(){
 																												$("#BO-EI-NG").css("transform", "rotate(1802.99deg)");
-																												$("#BO-EI-NG").animate({ left: '1010px', top: '125px'}, 1010 , function(){
+																												$("#BO-EI-NG").animate({ left: '1010px', top: '101px'}, 1010 , function(){
 																													
 																												});
 																																																						
